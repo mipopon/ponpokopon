@@ -1,8 +1,11 @@
 # AtCoder Progress
 
-[Profile](https://atcoder.jp/users/anchos)
+[AtCoder Profile あんこ](https://atcoder.jp/users/anchos)
 
-### 目標
+AtCoder 始めて 1 ヶ月経ちそう。
+PHP エンジニアなので競プロも PHP でやる？！？
+
+## 目標
 
 10 月までに緑色（800） レーティング達成
 
@@ -13,3 +16,7 @@
 今回のパフォーマンスが 600 っていう現状を考えるとまあ可能っぽい。
 
 - 安定して ABCD を解けるようになるのが最初の目標。
+
+## 記録
+
+- 07/42 Rating 90
